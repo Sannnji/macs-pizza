@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/macs-pizza/static/css/main.4aa8c2ae.chunk.css",
+    "main.js": "/macs-pizza/static/js/main.37cdd46d.chunk.js",
+    "main.js.map": "/macs-pizza/static/js/main.37cdd46d.chunk.js.map",
+    "runtime-main.js": "/macs-pizza/static/js/runtime-main.b0337fc2.js",
+    "runtime-main.js.map": "/macs-pizza/static/js/runtime-main.b0337fc2.js.map",
+    "static/js/2.b6e572c0.chunk.js": "/macs-pizza/static/js/2.b6e572c0.chunk.js",
+    "static/js/2.b6e572c0.chunk.js.map": "/macs-pizza/static/js/2.b6e572c0.chunk.js.map",
+    "index.html": "/macs-pizza/index.html",
+    "static/css/main.4aa8c2ae.chunk.css.map": "/macs-pizza/static/css/main.4aa8c2ae.chunk.css.map",
+    "static/js/2.b6e572c0.chunk.js.LICENSE.txt": "/macs-pizza/static/js/2.b6e572c0.chunk.js.LICENSE.txt",
+    "static/media/breadstick-pic.fd196cb0.png": "/macs-pizza/static/media/breadstick-pic.fd196cb0.png",
+    "static/media/expansion-pic.0aa8f891.png": "/macs-pizza/static/media/expansion-pic.0aa8f891.png",
+    "static/media/google-maps.a17ec939.png": "/macs-pizza/static/media/google-maps.a17ec939.png",
+    "static/media/macs-banner.62b9dc82.png": "/macs-pizza/static/media/macs-banner.62b9dc82.png",
+    "static/media/macs-logo.5e6ee5af.png": "/macs-pizza/static/media/macs-logo.5e6ee5af.png",
+    "static/media/menu-tile.2d18ab55.png": "/macs-pizza/static/media/menu-tile.2d18ab55.png",
+    "static/media/order-tile.fcd8709d.png": "/macs-pizza/static/media/order-tile.fcd8709d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0337fc2.js",
+    "static/js/2.b6e572c0.chunk.js",
+    "static/css/main.4aa8c2ae.chunk.css",
+    "static/js/main.37cdd46d.chunk.js"
+  ]
+}
