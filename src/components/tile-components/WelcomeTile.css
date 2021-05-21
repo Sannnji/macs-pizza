@@ -1,0 +1,8 @@
+.welcome-tile {
+    background-color: #373e4b;
+    font-family: Croissant One;
+    padding: 15px;
+    text-align: center;
+    max-width: 575px;
+    min-width: 324px;
+  }
