@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/macs-pizza/static/css/main.4fa81388.chunk.css",
-    "main.js": "/macs-pizza/static/js/main.db9a630b.chunk.js",
-    "main.js.map": "/macs-pizza/static/js/main.db9a630b.chunk.js.map",
+    "main.js": "/macs-pizza/static/js/main.e3709552.chunk.js",
+    "main.js.map": "/macs-pizza/static/js/main.e3709552.chunk.js.map",
     "runtime-main.js": "/macs-pizza/static/js/runtime-main.b0337fc2.js",
     "runtime-main.js.map": "/macs-pizza/static/js/runtime-main.b0337fc2.js.map",
     "static/js/2.b6e572c0.chunk.js": "/macs-pizza/static/js/2.b6e572c0.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.b0337fc2.js",
     "static/js/2.b6e572c0.chunk.js",
     "static/css/main.4fa81388.chunk.css",
-    "static/js/main.db9a630b.chunk.js"
+    "static/js/main.e3709552.chunk.js"
   ]
 }
