@@ -3,8 +3,18 @@ import React from "react";
 function Footer() {
   return (
     <footer className="align-items-center justify-content-center">
-      <i class="fab fa-facebook-square"></i>
-      <i class="fab fa-instagram-square ml-2"></i>
+      <a
+        className="text-white"
+        href="https://www.facebook.com/MacsPizzaShackNY/"
+      >
+        <i class="fab fa-facebook-square"></i>
+      </a>
+      <a
+        className="ml-2 text-white"
+        href="https://www.instagram.com/macspizzashackny/"
+      >
+        <i class="fab fa-instagram-square"></i>
+      </a>
       <p className="m-0">Mac's Pizza Shack © 2021 | By James Ji</p>
     </footer>
   );

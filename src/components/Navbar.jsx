@@ -28,12 +28,12 @@ function Navbar() {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/">
+            <a className="nav-link" href="http://www.macspizzashackny.com/pdfs/MacsMenu.pdf">
               Menu
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/">
+            <a className="nav-link" href="http://www.macspizzashackny.com/pdfs/macscoupons.pdf">
               Coupons
             </a>
           </li>
