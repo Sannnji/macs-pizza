@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/macs-pizza/static/css/main.4aa8c2ae.chunk.css",
-    "main.js": "/macs-pizza/static/js/main.d80bb414.chunk.js",
-    "main.js.map": "/macs-pizza/static/js/main.d80bb414.chunk.js.map",
+    "main.css": "/macs-pizza/static/css/main.4fa81388.chunk.css",
+    "main.js": "/macs-pizza/static/js/main.db9a630b.chunk.js",
+    "main.js.map": "/macs-pizza/static/js/main.db9a630b.chunk.js.map",
     "runtime-main.js": "/macs-pizza/static/js/runtime-main.b0337fc2.js",
     "runtime-main.js.map": "/macs-pizza/static/js/runtime-main.b0337fc2.js.map",
     "static/js/2.b6e572c0.chunk.js": "/macs-pizza/static/js/2.b6e572c0.chunk.js",
     "static/js/2.b6e572c0.chunk.js.map": "/macs-pizza/static/js/2.b6e572c0.chunk.js.map",
     "index.html": "/macs-pizza/index.html",
-    "static/css/main.4aa8c2ae.chunk.css.map": "/macs-pizza/static/css/main.4aa8c2ae.chunk.css.map",
+    "static/css/main.4fa81388.chunk.css.map": "/macs-pizza/static/css/main.4fa81388.chunk.css.map",
     "static/js/2.b6e572c0.chunk.js.LICENSE.txt": "/macs-pizza/static/js/2.b6e572c0.chunk.js.LICENSE.txt",
     "static/media/breadstick-pic.fd196cb0.png": "/macs-pizza/static/media/breadstick-pic.fd196cb0.png",
     "static/media/expansion-pic.0aa8f891.png": "/macs-pizza/static/media/expansion-pic.0aa8f891.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0337fc2.js",
     "static/js/2.b6e572c0.chunk.js",
-    "static/css/main.4aa8c2ae.chunk.css",
-    "static/js/main.d80bb414.chunk.js"
+    "static/css/main.4fa81388.chunk.css",
+    "static/js/main.db9a630b.chunk.js"
   ]
 }
